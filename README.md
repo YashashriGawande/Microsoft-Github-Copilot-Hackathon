@@ -1,1 +1,1 @@
-# Microsoft-Azure-Women-s-Hackathon
+# Microsoft Azure Women Hackathon

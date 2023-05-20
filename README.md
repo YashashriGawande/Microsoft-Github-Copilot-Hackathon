@@ -1,1 +1,1 @@
-# Microsoft Azure Women Hackathon
+# Microsoft GITHUB COPILOT Hackathon

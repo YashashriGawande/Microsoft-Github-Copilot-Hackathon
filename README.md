@@ -1,1 +1,1 @@
-# Microsoft GITHUB COPILOT Hackathon
+# Microsoft Github Copilot Hackathon
